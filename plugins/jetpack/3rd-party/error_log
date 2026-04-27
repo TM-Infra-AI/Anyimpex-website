@@ -1,0 +1,19 @@
+[14-Sep-2025 04:38:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/anyimpex/public_html/wp-content/plugins/jetpack/3rd-party/vaultpress.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/jetpack/3rd-party/vaultpress.php on line 6
+[14-Sep-2025 04:38:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/anyimpex/public_html/wp-content/plugins/jetpack/3rd-party/woocommerce.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/jetpack/3rd-party/woocommerce.php on line 3
+[14-Sep-2025 04:39:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/anyimpex/public_html/wp-content/plugins/jetpack/3rd-party/buddypress.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/jetpack/3rd-party/buddypress.php on line 3
+[14-Sep-2025 04:39:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/anyimpex/public_html/wp-content/plugins/jetpack/3rd-party/bbpress.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/jetpack/3rd-party/bbpress.php on line 2
+[14-Sep-2025 04:39:02 UTC] PHP Warning:  Use of undefined constant JETPACK__PLUGIN_DIR - assumed 'JETPACK__PLUGIN_DIR' (this will throw an Error in a future version of PHP) in /home/anyimpex/public_html/wp-content/plugins/jetpack/3rd-party/3rd-party.php on line 8
+[14-Sep-2025 04:39:02 UTC] PHP Warning:  require_once(JETPACK__PLUGIN_DIR3rd-party/buddypress.php): failed to open stream: No such file or directory in /home/anyimpex/public_html/wp-content/plugins/jetpack/3rd-party/3rd-party.php on line 8
+[14-Sep-2025 04:39:02 UTC] PHP Fatal error:  require_once(): Failed opening required 'JETPACK__PLUGIN_DIR3rd-party/buddypress.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/anyimpex/public_html/wp-content/plugins/jetpack/3rd-party/3rd-party.php on line 8

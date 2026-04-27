@@ -1,0 +1,10 @@
+[14-Sep-2025 04:40:20 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/tiled-gallery/tiled-gallery/templates/carousel-container.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/tiled-gallery/tiled-gallery/templates/carousel-container.php on line 5
+[14-Sep-2025 04:40:21 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/tiled-gallery/tiled-gallery/templates/rectangular-layout.php on line 2
+[14-Sep-2025 04:40:21 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/tiled-gallery/tiled-gallery/templates/circle-layout.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/tiled-gallery/tiled-gallery/templates/circle-layout.php on line 2
+[14-Sep-2025 04:40:22 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/tiled-gallery/tiled-gallery/templates/square-layout.php on line 2

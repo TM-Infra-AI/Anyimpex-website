@@ -1,0 +1,12 @@
+[14-Sep-2025 04:39:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/theme-tools/compat/twentysixteen.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/theme-tools/compat/twentysixteen.php on line 13
+[14-Sep-2025 04:39:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/theme-tools/compat/twentyfourteen.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/theme-tools/compat/twentyfourteen.php on line 16
+[14-Sep-2025 04:40:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/theme-tools/compat/twentyfifteen.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/theme-tools/compat/twentyfifteen.php on line 13

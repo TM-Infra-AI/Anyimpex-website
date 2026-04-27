@@ -1,0 +1,10 @@
+[14-Sep-2025 04:40:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function jetpack_require_lib() in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/publicize/enhanced-open-graph.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/publicize/enhanced-open-graph.php on line 6
+[14-Sep-2025 04:40:04 UTC] PHP Fatal error:  Class 'Publicize_Base' not found in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/publicize/publicize-jetpack.php on line 3
+[27-Feb-2026 00:23:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function jetpack_require_lib() in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/publicize/enhanced-open-graph.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/publicize/enhanced-open-graph.php on line 6
+[27-Feb-2026 00:23:22 UTC] PHP Fatal error:  Class 'Publicize_Base' not found in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/publicize/publicize-jetpack.php on line 3

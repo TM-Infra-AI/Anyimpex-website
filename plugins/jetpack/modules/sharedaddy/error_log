@@ -1,0 +1,13 @@
+[14-Sep-2025 04:40:25 UTC] PHP Warning:  Use of undefined constant JETPACK__VERSION - assumed 'JETPACK__VERSION' (this will throw an Error in a future version of PHP) in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/sharedaddy/sharing-service.php on line 5
+[14-Sep-2025 04:40:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/sharedaddy/sharing-service.php:566
+Stack trace:
+#0 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/sharedaddy/sharing-service.php on line 566
+[14-Sep-2025 04:40:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/sharedaddy/sharing.php:502
+Stack trace:
+#0 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/sharedaddy/sharing.php on line 502
+[14-Sep-2025 04:40:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function plugin_dir_path() in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/sharedaddy/sharedaddy.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/sharedaddy/sharedaddy.php on line 11

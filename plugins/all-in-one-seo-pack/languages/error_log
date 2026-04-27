@@ -1,0 +1,4 @@
+[14-Sep-2025 04:46:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/anyimpex/public_html/wp-content/plugins/all-in-one-seo-pack/languages/aioseo-lite.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/all-in-one-seo-pack/languages/aioseo-lite.php on line 7

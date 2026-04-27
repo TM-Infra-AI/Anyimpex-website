@@ -1,0 +1,24 @@
+[14-Sep-2025 04:41:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/anyimpex/public_html/wp-content/plugins/jetpack/_inc/social-logos.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/jetpack/_inc/social-logos.php on line 7
+[14-Sep-2025 04:41:30 UTC] PHP Fatal error:  Uncaught Error: Class 'Jetpack' not found in /home/anyimpex/public_html/wp-content/plugins/jetpack/_inc/header.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/jetpack/_inc/header.php on line 8
+[14-Sep-2025 04:41:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/anyimpex/public_html/wp-content/plugins/jetpack/_inc/genericons.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/jetpack/_inc/genericons.php on line 8
+[14-Sep-2025 04:41:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/anyimpex/public_html/wp-content/plugins/jetpack/_inc/footer.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/jetpack/_inc/footer.php on line 7
+[27-Feb-2026 00:10:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/anyimpex/public_html/wp-content/plugins/jetpack/_inc/footer.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/jetpack/_inc/footer.php on line 7
+[27-Feb-2026 00:10:28 UTC] PHP Fatal error:  Uncaught Error: Class 'Jetpack' not found in /home/anyimpex/public_html/wp-content/plugins/jetpack/_inc/header.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/jetpack/_inc/header.php on line 8

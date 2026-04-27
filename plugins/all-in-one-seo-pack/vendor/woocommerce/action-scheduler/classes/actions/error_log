@@ -1,0 +1,3 @@
+[14-Sep-2025 04:46:09 UTC] PHP Fatal error:  Class 'ActionScheduler_Action' not found in /home/anyimpex/public_html/wp-content/plugins/all-in-one-seo-pack/vendor/woocommerce/action-scheduler/classes/actions/ActionScheduler_FinishedAction.php on line 6
+[14-Sep-2025 04:46:10 UTC] PHP Fatal error:  Class 'ActionScheduler_Action' not found in /home/anyimpex/public_html/wp-content/plugins/all-in-one-seo-pack/vendor/woocommerce/action-scheduler/classes/actions/ActionScheduler_NullAction.php on line 6
+[14-Sep-2025 04:46:10 UTC] PHP Fatal error:  Class 'ActionScheduler_FinishedAction' not found in /home/anyimpex/public_html/wp-content/plugins/all-in-one-seo-pack/vendor/woocommerce/action-scheduler/classes/actions/ActionScheduler_CanceledAction.php on line 9

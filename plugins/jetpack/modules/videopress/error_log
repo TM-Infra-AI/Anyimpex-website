@@ -1,0 +1,20 @@
+[14-Sep-2025 04:39:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/videopress/editor-media-view.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/videopress/editor-media-view.php on line 40
+[14-Sep-2025 04:39:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_shortcode() in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/videopress/shortcode.php:120
+Stack trace:
+#0 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/videopress/shortcode.php on line 120
+[14-Sep-2025 04:39:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/videopress/videopress.php:25
+Stack trace:
+#0 /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/videopress/videopress.php(18): Jetpack_VideoPress->__construct()
+#1 /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/videopress/videopress.php(846): Jetpack_VideoPress::init()
+#2 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/videopress/videopress.php on line 25
+[27-Feb-2026 00:28:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/videopress/videopress.php:25
+Stack trace:
+#0 /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/videopress/videopress.php(18): Jetpack_VideoPress->__construct()
+#1 /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/videopress/videopress.php(846): Jetpack_VideoPress::init()
+#2 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/videopress/videopress.php on line 25

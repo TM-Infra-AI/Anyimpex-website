@@ -1,0 +1,16 @@
+[20-Feb-2025 21:16:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/anyimpex/public_html/wp-content/plugins/hello-dolly/hello.php:69
+Stack trace:
+#0 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/hello-dolly/hello.php on line 69
+[27-Mar-2025 04:48:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/anyimpex/public_html/wp-content/plugins/hello-dolly/hello.php:69
+Stack trace:
+#0 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/hello-dolly/hello.php on line 69
+[03-Jan-2026 22:31:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/anyimpex/public_html/wp-content/plugins/hello-dolly/hello.php:69
+Stack trace:
+#0 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/hello-dolly/hello.php on line 69
+[04-Jan-2026 09:54:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/anyimpex/public_html/wp-content/plugins/hello-dolly/hello.php:69
+Stack trace:
+#0 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/hello-dolly/hello.php on line 69

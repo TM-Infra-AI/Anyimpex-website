@@ -1,0 +1,32 @@
+[14-Sep-2025 04:39:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/theme-tools/infinite-scroll.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/theme-tools/infinite-scroll.php on line 36
+[14-Sep-2025 04:39:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/theme-tools/social-menu.php:44
+Stack trace:
+#0 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/theme-tools/social-menu.php on line 44
+[14-Sep-2025 04:39:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/theme-tools/social-links.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/theme-tools/social-links.php on line 19
+[14-Sep-2025 04:39:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/theme-tools/responsive-videos.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/theme-tools/responsive-videos.php on line 24
+[14-Sep-2025 04:39:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/theme-tools/random-redirect.php:74
+Stack trace:
+#0 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/theme-tools/random-redirect.php on line 74
+[14-Sep-2025 04:39:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/theme-tools/site-logo.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/theme-tools/site-logo.php on line 46
+[27-Feb-2026 00:26:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/theme-tools/infinite-scroll.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/theme-tools/infinite-scroll.php on line 36
+[27-Feb-2026 00:26:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/theme-tools/random-redirect.php:74
+Stack trace:
+#0 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/theme-tools/random-redirect.php on line 74

@@ -1,0 +1,8 @@
+[14-Sep-2025 04:39:55 UTC] PHP Fatal error:  Class 'WP_Customize_Control' not found in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/theme-tools/site-logo/inc/class-site-logo-control.php on line 7
+[14-Sep-2025 04:39:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_option() in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/theme-tools/site-logo/inc/class-site-logo.php:39
+Stack trace:
+#0 /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/theme-tools/site-logo/inc/class-site-logo.php(26): Site_Logo->__construct()
+#1 /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/theme-tools/site-logo/inc/class-site-logo.php(353): Site_Logo::instance()
+#2 /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/theme-tools/site-logo/inc/class-site-logo.php(359): site_logo()
+#3 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/theme-tools/site-logo/inc/class-site-logo.php on line 39

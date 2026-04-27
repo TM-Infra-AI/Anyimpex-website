@@ -1,0 +1,85 @@
+[14-Sep-2025 04:38:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function status_header() in /home/anyimpex/public_html/wp-content/plugins/jetpack/uninstall.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/jetpack/uninstall.php on line 10
+[14-Sep-2025 04:38:33 UTC] PHP Fatal error:  Class 'WP_Error' not found in /home/anyimpex/public_html/wp-content/plugins/jetpack/class.jetpack-error.php on line 3
+[14-Sep-2025 04:38:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/anyimpex/public_html/wp-content/plugins/jetpack/functions.gallery.php:8
+Stack trace:
+#0 /home/anyimpex/public_html/wp-content/plugins/jetpack/functions.gallery.php(76): Jetpack_Gallery_Settings->__construct()
+#1 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/jetpack/functions.gallery.php on line 8
+[14-Sep-2025 04:38:35 UTC] PHP Fatal error:  Uncaught Error: Class 'Jetpack' not found in /home/anyimpex/public_html/wp-content/plugins/jetpack/class.jetpack-autoupdate.php:33
+Stack trace:
+#0 /home/anyimpex/public_html/wp-content/plugins/jetpack/class.jetpack-autoupdate.php(27): Jetpack_Autoupdate->__construct()
+#1 /home/anyimpex/public_html/wp-content/plugins/jetpack/class.jetpack-autoupdate.php(246): Jetpack_Autoupdate::init()
+#2 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/jetpack/class.jetpack-autoupdate.php on line 33
+[14-Sep-2025 04:38:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/anyimpex/public_html/wp-content/plugins/jetpack/class.jetpack-twitter-cards.php:207
+Stack trace:
+#0 /home/anyimpex/public_html/wp-content/plugins/jetpack/class.jetpack-twitter-cards.php(217): Jetpack_Twitter_Cards::init()
+#1 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/jetpack/class.jetpack-twitter-cards.php on line 207
+[14-Sep-2025 04:38:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/anyimpex/public_html/wp-content/plugins/jetpack/functions.photon.php:180
+Stack trace:
+#0 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/jetpack/functions.photon.php on line 180
+[14-Sep-2025 04:38:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/anyimpex/public_html/wp-content/plugins/jetpack/class.jetpack-tracks.php:83
+Stack trace:
+#0 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/jetpack/class.jetpack-tracks.php on line 83
+[14-Sep-2025 04:38:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function plugin_dir_path() in /home/anyimpex/public_html/wp-content/plugins/jetpack/jetpack.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/jetpack/jetpack.php on line 20
+[14-Sep-2025 04:38:40 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_CLI' not found in /home/anyimpex/public_html/wp-content/plugins/jetpack/class.jetpack-cli.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/jetpack/class.jetpack-cli.php on line 3
+[14-Sep-2025 04:38:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/anyimpex/public_html/wp-content/plugins/jetpack/functions.opengraph.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/jetpack/functions.opengraph.php on line 11
+[14-Sep-2025 04:38:43 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/anyimpex/public_html/wp-content/plugins/jetpack/class.jetpack-modules-list-table.php on line 4
+[14-Sep-2025 04:38:43 UTC] PHP Warning:  require_once(ABSPATHwp-admin/includes/class-wp-list-table.php): failed to open stream: No such file or directory in /home/anyimpex/public_html/wp-content/plugins/jetpack/class.jetpack-modules-list-table.php on line 4
+[14-Sep-2025 04:38:43 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHwp-admin/includes/class-wp-list-table.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/anyimpex/public_html/wp-content/plugins/jetpack/class.jetpack-modules-list-table.php on line 4
+[14-Sep-2025 04:38:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function apply_filters() in /home/anyimpex/public_html/wp-content/plugins/jetpack/class.jetpack-jitm.php:464
+Stack trace:
+#0 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/jetpack/class.jetpack-jitm.php on line 464
+[14-Sep-2025 04:38:45 UTC] PHP Fatal error:  Class 'Walker' not found in /home/anyimpex/public_html/wp-content/plugins/jetpack/json-endpoints/class.wpcom-json-api-list-comments-endpoint.php on line 3
+[14-Sep-2025 04:38:47 UTC] PHP Fatal error:  Uncaught Error: Class 'Jetpack' not found in /home/anyimpex/public_html/wp-content/plugins/jetpack/class.jetpack-admin.php:25
+Stack trace:
+#0 /home/anyimpex/public_html/wp-content/plugins/jetpack/class.jetpack-admin.php(19): Jetpack_Admin->__construct()
+#1 /home/anyimpex/public_html/wp-content/plugins/jetpack/class.jetpack-admin.php(259): Jetpack_Admin::init()
+#2 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/jetpack/class.jetpack-admin.php on line 25
+[14-Sep-2025 04:38:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/anyimpex/public_html/wp-content/plugins/jetpack/class.jetpack-bbpress-json-api-compat.php:18
+Stack trace:
+#0 /home/anyimpex/public_html/wp-content/plugins/jetpack/class.jetpack-bbpress-json-api-compat.php(14): bbPress_Jetpack_REST_API->__construct()
+#1 /home/anyimpex/public_html/wp-content/plugins/jetpack/class.jetpack-bbpress-json-api-compat.php(108): bbPress_Jetpack_REST_API::instance()
+#2 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/jetpack/class.jetpack-bbpress-json-api-compat.php on line 18
+[14-Sep-2025 04:38:49 UTC] PHP Fatal error:  Class 'WPCOM_JSON_API_Endpoint' not found in /home/anyimpex/public_html/wp-content/plugins/jetpack/json-endpoints/class.wpcom-json-api-post-endpoint.php on line 3
+[14-Sep-2025 04:38:51 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/anyimpex/public_html/wp-content/plugins/jetpack/class.jetpack-network-sites-list-table.php on line 4
+[14-Sep-2025 04:38:51 UTC] PHP Warning:  require_once(ABSPATHwp-admin/includes/class-wp-list-table.php): failed to open stream: No such file or directory in /home/anyimpex/public_html/wp-content/plugins/jetpack/class.jetpack-network-sites-list-table.php on line 4
+[14-Sep-2025 04:38:51 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHwp-admin/includes/class-wp-list-table.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/anyimpex/public_html/wp-content/plugins/jetpack/class.jetpack-network-sites-list-table.php on line 4
+[27-Feb-2026 00:08:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/anyimpex/public_html/wp-content/plugins/jetpack/class.jetpack-bbpress-json-api-compat.php:18
+Stack trace:
+#0 /home/anyimpex/public_html/wp-content/plugins/jetpack/class.jetpack-bbpress-json-api-compat.php(14): bbPress_Jetpack_REST_API->__construct()
+#1 /home/anyimpex/public_html/wp-content/plugins/jetpack/class.jetpack-bbpress-json-api-compat.php(108): bbPress_Jetpack_REST_API::instance()
+#2 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/jetpack/class.jetpack-bbpress-json-api-compat.php on line 18
+[27-Feb-2026 00:08:53 UTC] PHP Fatal error:  Class 'WP_Error' not found in /home/anyimpex/public_html/wp-content/plugins/jetpack/class.jetpack-error.php on line 3
+[27-Feb-2026 00:09:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function apply_filters() in /home/anyimpex/public_html/wp-content/plugins/jetpack/class.jetpack-jitm.php:464
+Stack trace:
+#0 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/jetpack/class.jetpack-jitm.php on line 464
+[27-Feb-2026 00:09:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/anyimpex/public_html/wp-content/plugins/jetpack/class.jetpack-tracks.php:83
+Stack trace:
+#0 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/jetpack/class.jetpack-tracks.php on line 83
+[27-Feb-2026 00:09:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/anyimpex/public_html/wp-content/plugins/jetpack/functions.gallery.php:8
+Stack trace:
+#0 /home/anyimpex/public_html/wp-content/plugins/jetpack/functions.gallery.php(76): Jetpack_Gallery_Settings->__construct()
+#1 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/jetpack/functions.gallery.php on line 8

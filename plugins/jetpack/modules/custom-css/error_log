@@ -1,0 +1,8 @@
+[14-Sep-2025 04:41:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/custom-css/custom-css.php:1859
+Stack trace:
+#0 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/custom-css/custom-css.php on line 1859
+[27-Feb-2026 00:18:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/custom-css/custom-css.php:1859
+Stack trace:
+#0 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/custom-css/custom-css.php on line 1859

@@ -1,0 +1,7 @@
+[13-Mar-2026 04:03:50 UTC] PHP Fatal error:  Class 'WP_Widget' not found in /home/anyimpex/public_html/wp-content/themes/artificer/includes/widgets/widget-woo-adspace.php on line 6
+[13-Mar-2026 04:03:57 UTC] PHP Fatal error:  Class 'WP_Widget' not found in /home/anyimpex/public_html/wp-content/themes/artificer/includes/widgets/widget-woo-blogauthor.php on line 5
+[13-Mar-2026 04:04:04 UTC] PHP Fatal error:  Class 'WP_Widget' not found in /home/anyimpex/public_html/wp-content/themes/artificer/includes/widgets/widget-woo-embed.php on line 6
+[13-Mar-2026 04:04:11 UTC] PHP Fatal error:  Class 'WP_Widget' not found in /home/anyimpex/public_html/wp-content/themes/artificer/includes/widgets/widget-woo-flickr.php on line 5
+[13-Mar-2026 04:04:18 UTC] PHP Fatal error:  Class 'WP_Widget' not found in /home/anyimpex/public_html/wp-content/themes/artificer/includes/widgets/widget-woo-search.php on line 5
+[13-Mar-2026 04:04:25 UTC] PHP Fatal error:  Class 'WP_Widget' not found in /home/anyimpex/public_html/wp-content/themes/artificer/includes/widgets/widget-woo-subscribe.php on line 5
+[13-Mar-2026 04:04:31 UTC] PHP Fatal error:  Class 'WP_Widget' not found in /home/anyimpex/public_html/wp-content/themes/artificer/includes/widgets/widget-woo-twitter.php on line 5

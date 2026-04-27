@@ -1,0 +1,238 @@
+[24-Aug-2025 10:20:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Automattic\Jetpack\Autoloader\jpfd0d177b2d8140b4b20d4474b07b8ed7\wp_normalize_path() in /home/anyimpex/public_html/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-path-processor.php:73
+Stack trace:
+#0 /home/anyimpex/public_html/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-plugin-locator.php(45): Automattic\Jetpack\Autoloader\jpfd0d177b2d8140b4b20d4474b07b8ed7\Path_Processor->find_directory_with_autoloader('/home/anyimpex/...', Array)
+#1 /home/anyimpex/public_html/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-autoloader.php(46): Automattic\Jetpack\Autoloader\jpfd0d177b2d8140b4b20d4474b07b8ed7\Plugin_Locator->find_current_plugin()
+#2 /home/anyimpex/public_html/wp-content/plugins/woocommerce/vendor/autoload_packages.php(13): Automattic\Jetpack\Autoloader\jpfd0d177b2d8140b4b20d4474b07b8ed7\Autoloader::init()
+#3 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-path-processor.php on line 73
+[26-Aug-2025 05:24:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Automattic\Jetpack\Autoloader\jpfd0d177b2d8140b4b20d4474b07b8ed7\wp_normalize_path() in /home/anyimpex/public_html/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-path-processor.php:73
+Stack trace:
+#0 /home/anyimpex/public_html/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-plugin-locator.php(45): Automattic\Jetpack\Autoloader\jpfd0d177b2d8140b4b20d4474b07b8ed7\Path_Processor->find_directory_with_autoloader('/home/anyimpex/...', Array)
+#1 /home/anyimpex/public_html/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-autoloader.php(46): Automattic\Jetpack\Autoloader\jpfd0d177b2d8140b4b20d4474b07b8ed7\Plugin_Locator->find_current_plugin()
+#2 /home/anyimpex/public_html/wp-content/plugins/woocommerce/vendor/autoload_packages.php(13): Automattic\Jetpack\Autoloader\jpfd0d177b2d8140b4b20d4474b07b8ed7\Autoloader::init()
+#3 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-path-processor.php on line 73
+[26-Aug-2025 19:41:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Automattic\Jetpack\Autoloader\jpfd0d177b2d8140b4b20d4474b07b8ed7\wp_normalize_path() in /home/anyimpex/public_html/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-path-processor.php:73
+Stack trace:
+#0 /home/anyimpex/public_html/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-plugin-locator.php(45): Automattic\Jetpack\Autoloader\jpfd0d177b2d8140b4b20d4474b07b8ed7\Path_Processor->find_directory_with_autoloader('/home/anyimpex/...', Array)
+#1 /home/anyimpex/public_html/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-autoloader.php(46): Automattic\Jetpack\Autoloader\jpfd0d177b2d8140b4b20d4474b07b8ed7\Plugin_Locator->find_current_plugin()
+#2 /home/anyimpex/public_html/wp-content/plugins/woocommerce/vendor/autoload_packages.php(13): Automattic\Jetpack\Autoloader\jpfd0d177b2d8140b4b20d4474b07b8ed7\Autoloader::init()
+#3 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-path-processor.php on line 73
+[01-Sep-2025 16:23:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Automattic\Jetpack\Autoloader\jpfd0d177b2d8140b4b20d4474b07b8ed7\wp_normalize_path() in /home/anyimpex/public_html/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-path-processor.php:73
+Stack trace:
+#0 /home/anyimpex/public_html/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-plugin-locator.php(45): Automattic\Jetpack\Autoloader\jpfd0d177b2d8140b4b20d4474b07b8ed7\Path_Processor->find_directory_with_autoloader('/home/anyimpex/...', Array)
+#1 /home/anyimpex/public_html/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-autoloader.php(46): Automattic\Jetpack\Autoloader\jpfd0d177b2d8140b4b20d4474b07b8ed7\Plugin_Locator->find_current_plugin()
+#2 /home/anyimpex/public_html/wp-content/plugins/woocommerce/vendor/autoload_packages.php(13): Automattic\Jetpack\Autoloader\jpfd0d177b2d8140b4b20d4474b07b8ed7\Autoloader::init()
+#3 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-path-processor.php on line 73
+[06-Sep-2025 20:09:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Automattic\Jetpack\Autoloader\jpfd0d177b2d8140b4b20d4474b07b8ed7\wp_normalize_path() in /home/anyimpex/public_html/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-path-processor.php:73
+Stack trace:
+#0 /home/anyimpex/public_html/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-plugin-locator.php(45): Automattic\Jetpack\Autoloader\jpfd0d177b2d8140b4b20d4474b07b8ed7\Path_Processor->find_directory_with_autoloader('/home/anyimpex/...', Array)
+#1 /home/anyimpex/public_html/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-autoloader.php(46): Automattic\Jetpack\Autoloader\jpfd0d177b2d8140b4b20d4474b07b8ed7\Plugin_Locator->find_current_plugin()
+#2 /home/anyimpex/public_html/wp-content/plugins/woocommerce/vendor/autoload_packages.php(13): Automattic\Jetpack\Autoloader\jpfd0d177b2d8140b4b20d4474b07b8ed7\Autoloader::init()
+#3 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-path-processor.php on line 73
+[14-Sep-2025 04:34:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Automattic\Jetpack\Autoloader\jpfd0d177b2d8140b4b20d4474b07b8ed7\wp_normalize_path() in /home/anyimpex/public_html/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-path-processor.php:73
+Stack trace:
+#0 /home/anyimpex/public_html/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-plugin-locator.php(45): Automattic\Jetpack\Autoloader\jpfd0d177b2d8140b4b20d4474b07b8ed7\Path_Processor->find_directory_with_autoloader('/home/anyimpex/...', Array)
+#1 /home/anyimpex/public_html/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-autoloader.php(46): Automattic\Jetpack\Autoloader\jpfd0d177b2d8140b4b20d4474b07b8ed7\Plugin_Locator->find_current_plugin()
+#2 /home/anyimpex/public_html/wp-content/plugins/woocommerce/vendor/autoload_packages.php(13): Automattic\Jetpack\Autoloader\jpfd0d177b2d8140b4b20d4474b07b8ed7\Autoloader::init()
+#3 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-path-processor.php on line 73
+[14-Sep-2025 14:05:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Automattic\Jetpack\Autoloader\jpfd0d177b2d8140b4b20d4474b07b8ed7\wp_normalize_path() in /home/anyimpex/public_html/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-path-processor.php:73
+Stack trace:
+#0 /home/anyimpex/public_html/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-plugin-locator.php(45): Automattic\Jetpack\Autoloader\jpfd0d177b2d8140b4b20d4474b07b8ed7\Path_Processor->find_directory_with_autoloader('/home/anyimpex/...', Array)
+#1 /home/anyimpex/public_html/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-autoloader.php(46): Automattic\Jetpack\Autoloader\jpfd0d177b2d8140b4b20d4474b07b8ed7\Plugin_Locator->find_current_plugin()
+#2 /home/anyimpex/public_html/wp-content/plugins/woocommerce/vendor/autoload_packages.php(13): Automattic\Jetpack\Autoloader\jpfd0d177b2d8140b4b20d4474b07b8ed7\Autoloader::init()
+#3 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-path-processor.php on line 73
+[14-Sep-2025 15:05:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Automattic\Jetpack\Autoloader\jpfd0d177b2d8140b4b20d4474b07b8ed7\wp_normalize_path() in /home/anyimpex/public_html/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-path-processor.php:73
+Stack trace:
+#0 /home/anyimpex/public_html/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-plugin-locator.php(45): Automattic\Jetpack\Autoloader\jpfd0d177b2d8140b4b20d4474b07b8ed7\Path_Processor->find_directory_with_autoloader('/home/anyimpex/...', Array)
+#1 /home/anyimpex/public_html/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-autoloader.php(46): Automattic\Jetpack\Autoloader\jpfd0d177b2d8140b4b20d4474b07b8ed7\Plugin_Locator->find_current_plugin()
+#2 /home/anyimpex/public_html/wp-content/plugins/woocommerce/vendor/autoload_packages.php(13): Automattic\Jetpack\Autoloader\jpfd0d177b2d8140b4b20d4474b07b8ed7\Autoloader::init()
+#3 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-path-processor.php on line 73
+[22-Sep-2025 16:45:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Automattic\Jetpack\Autoloader\jpfd0d177b2d8140b4b20d4474b07b8ed7\wp_normalize_path() in /home/anyimpex/public_html/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-path-processor.php:73
+Stack trace:
+#0 /home/anyimpex/public_html/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-plugin-locator.php(45): Automattic\Jetpack\Autoloader\jpfd0d177b2d8140b4b20d4474b07b8ed7\Path_Processor->find_directory_with_autoloader('/home/anyimpex/...', Array)
+#1 /home/anyimpex/public_html/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-autoloader.php(46): Automattic\Jetpack\Autoloader\jpfd0d177b2d8140b4b20d4474b07b8ed7\Plugin_Locator->find_current_plugin()
+#2 /home/anyimpex/public_html/wp-content/plugins/woocommerce/vendor/autoload_packages.php(13): Automattic\Jetpack\Autoloader\jpfd0d177b2d8140b4b20d4474b07b8ed7\Autoloader::init()
+#3 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-path-processor.php on line 73
+[04-Oct-2025 22:29:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Automattic\Jetpack\Autoloader\jpfd0d177b2d8140b4b20d4474b07b8ed7\wp_normalize_path() in /home/anyimpex/public_html/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-path-processor.php:73
+Stack trace:
+#0 /home/anyimpex/public_html/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-plugin-locator.php(45): Automattic\Jetpack\Autoloader\jpfd0d177b2d8140b4b20d4474b07b8ed7\Path_Processor->find_directory_with_autoloader('/home/anyimpex/...', Array)
+#1 /home/anyimpex/public_html/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-autoloader.php(46): Automattic\Jetpack\Autoloader\jpfd0d177b2d8140b4b20d4474b07b8ed7\Plugin_Locator->find_current_plugin()
+#2 /home/anyimpex/public_html/wp-content/plugins/woocommerce/vendor/autoload_packages.php(13): Automattic\Jetpack\Autoloader\jpfd0d177b2d8140b4b20d4474b07b8ed7\Autoloader::init()
+#3 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-path-processor.php on line 73
+[15-Oct-2025 00:08:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Automattic\Jetpack\Autoloader\jpfd0d177b2d8140b4b20d4474b07b8ed7\wp_normalize_path() in /home/anyimpex/public_html/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-path-processor.php:73
+Stack trace:
+#0 /home/anyimpex/public_html/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-plugin-locator.php(45): Automattic\Jetpack\Autoloader\jpfd0d177b2d8140b4b20d4474b07b8ed7\Path_Processor->find_directory_with_autoloader('/home/anyimpex/...', Array)
+#1 /home/anyimpex/public_html/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-autoloader.php(46): Automattic\Jetpack\Autoloader\jpfd0d177b2d8140b4b20d4474b07b8ed7\Plugin_Locator->find_current_plugin()
+#2 /home/anyimpex/public_html/wp-content/plugins/woocommerce/vendor/autoload_packages.php(13): Automattic\Jetpack\Autoloader\jpfd0d177b2d8140b4b20d4474b07b8ed7\Autoloader::init()
+#3 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-path-processor.php on line 73
+[16-Oct-2025 13:08:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Automattic\Jetpack\Autoloader\jpfd0d177b2d8140b4b20d4474b07b8ed7\wp_normalize_path() in /home/anyimpex/public_html/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-path-processor.php:73
+Stack trace:
+#0 /home/anyimpex/public_html/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-plugin-locator.php(45): Automattic\Jetpack\Autoloader\jpfd0d177b2d8140b4b20d4474b07b8ed7\Path_Processor->find_directory_with_autoloader('/home/anyimpex/...', Array)
+#1 /home/anyimpex/public_html/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-autoloader.php(46): Automattic\Jetpack\Autoloader\jpfd0d177b2d8140b4b20d4474b07b8ed7\Plugin_Locator->find_current_plugin()
+#2 /home/anyimpex/public_html/wp-content/plugins/woocommerce/vendor/autoload_packages.php(13): Automattic\Jetpack\Autoloader\jpfd0d177b2d8140b4b20d4474b07b8ed7\Autoloader::init()
+#3 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-path-processor.php on line 73
+[19-Oct-2025 15:56:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Automattic\Jetpack\Autoloader\jpfd0d177b2d8140b4b20d4474b07b8ed7\wp_normalize_path() in /home/anyimpex/public_html/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-path-processor.php:73
+Stack trace:
+#0 /home/anyimpex/public_html/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-plugin-locator.php(45): Automattic\Jetpack\Autoloader\jpfd0d177b2d8140b4b20d4474b07b8ed7\Path_Processor->find_directory_with_autoloader('/home/anyimpex/...', Array)
+#1 /home/anyimpex/public_html/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-autoloader.php(46): Automattic\Jetpack\Autoloader\jpfd0d177b2d8140b4b20d4474b07b8ed7\Plugin_Locator->find_current_plugin()
+#2 /home/anyimpex/public_html/wp-content/plugins/woocommerce/vendor/autoload_packages.php(13): Automattic\Jetpack\Autoloader\jpfd0d177b2d8140b4b20d4474b07b8ed7\Autoloader::init()
+#3 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-path-processor.php on line 73
+[20-Oct-2025 02:53:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Automattic\Jetpack\Autoloader\jpfd0d177b2d8140b4b20d4474b07b8ed7\wp_normalize_path() in /home/anyimpex/public_html/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-path-processor.php:73
+Stack trace:
+#0 /home/anyimpex/public_html/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-plugin-locator.php(45): Automattic\Jetpack\Autoloader\jpfd0d177b2d8140b4b20d4474b07b8ed7\Path_Processor->find_directory_with_autoloader('/home/anyimpex/...', Array)
+#1 /home/anyimpex/public_html/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-autoloader.php(46): Automattic\Jetpack\Autoloader\jpfd0d177b2d8140b4b20d4474b07b8ed7\Plugin_Locator->find_current_plugin()
+#2 /home/anyimpex/public_html/wp-content/plugins/woocommerce/vendor/autoload_packages.php(13): Automattic\Jetpack\Autoloader\jpfd0d177b2d8140b4b20d4474b07b8ed7\Autoloader::init()
+#3 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-path-processor.php on line 73
+[20-Oct-2025 03:01:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Automattic\Jetpack\Autoloader\jpfd0d177b2d8140b4b20d4474b07b8ed7\wp_normalize_path() in /home/anyimpex/public_html/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-path-processor.php:73
+Stack trace:
+#0 /home/anyimpex/public_html/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-plugin-locator.php(45): Automattic\Jetpack\Autoloader\jpfd0d177b2d8140b4b20d4474b07b8ed7\Path_Processor->find_directory_with_autoloader('/home/anyimpex/...', Array)
+#1 /home/anyimpex/public_html/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-autoloader.php(46): Automattic\Jetpack\Autoloader\jpfd0d177b2d8140b4b20d4474b07b8ed7\Plugin_Locator->find_current_plugin()
+#2 /home/anyimpex/public_html/wp-content/plugins/woocommerce/vendor/autoload_packages.php(13): Automattic\Jetpack\Autoloader\jpfd0d177b2d8140b4b20d4474b07b8ed7\Autoloader::init()
+#3 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-path-processor.php on line 73
+[25-Oct-2025 15:29:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Automattic\Jetpack\Autoloader\jpfd0d177b2d8140b4b20d4474b07b8ed7\wp_normalize_path() in /home/anyimpex/public_html/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-path-processor.php:73
+Stack trace:
+#0 /home/anyimpex/public_html/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-plugin-locator.php(45): Automattic\Jetpack\Autoloader\jpfd0d177b2d8140b4b20d4474b07b8ed7\Path_Processor->find_directory_with_autoloader('/home/anyimpex/...', Array)
+#1 /home/anyimpex/public_html/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-autoloader.php(46): Automattic\Jetpack\Autoloader\jpfd0d177b2d8140b4b20d4474b07b8ed7\Plugin_Locator->find_current_plugin()
+#2 /home/anyimpex/public_html/wp-content/plugins/woocommerce/vendor/autoload_packages.php(13): Automattic\Jetpack\Autoloader\jpfd0d177b2d8140b4b20d4474b07b8ed7\Autoloader::init()
+#3 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-path-processor.php on line 73
+[11-Nov-2025 17:40:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Automattic\Jetpack\Autoloader\jpfd0d177b2d8140b4b20d4474b07b8ed7\wp_normalize_path() in /home/anyimpex/public_html/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-path-processor.php:73
+Stack trace:
+#0 /home/anyimpex/public_html/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-plugin-locator.php(45): Automattic\Jetpack\Autoloader\jpfd0d177b2d8140b4b20d4474b07b8ed7\Path_Processor->find_directory_with_autoloader('/home/anyimpex/...', Array)
+#1 /home/anyimpex/public_html/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-autoloader.php(46): Automattic\Jetpack\Autoloader\jpfd0d177b2d8140b4b20d4474b07b8ed7\Plugin_Locator->find_current_plugin()
+#2 /home/anyimpex/public_html/wp-content/plugins/woocommerce/vendor/autoload_packages.php(13): Automattic\Jetpack\Autoloader\jpfd0d177b2d8140b4b20d4474b07b8ed7\Autoloader::init()
+#3 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-path-processor.php on line 73
+[19-Nov-2025 00:32:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Automattic\Jetpack\Autoloader\jpfd0d177b2d8140b4b20d4474b07b8ed7\wp_normalize_path() in /home/anyimpex/public_html/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-path-processor.php:73
+Stack trace:
+#0 /home/anyimpex/public_html/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-plugin-locator.php(45): Automattic\Jetpack\Autoloader\jpfd0d177b2d8140b4b20d4474b07b8ed7\Path_Processor->find_directory_with_autoloader('/home/anyimpex/...', Array)
+#1 /home/anyimpex/public_html/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-autoloader.php(46): Automattic\Jetpack\Autoloader\jpfd0d177b2d8140b4b20d4474b07b8ed7\Plugin_Locator->find_current_plugin()
+#2 /home/anyimpex/public_html/wp-content/plugins/woocommerce/vendor/autoload_packages.php(13): Automattic\Jetpack\Autoloader\jpfd0d177b2d8140b4b20d4474b07b8ed7\Autoloader::init()
+#3 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-path-processor.php on line 73
+[20-Nov-2025 04:59:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Automattic\Jetpack\Autoloader\jpfd0d177b2d8140b4b20d4474b07b8ed7\wp_normalize_path() in /home/anyimpex/public_html/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-path-processor.php:73
+Stack trace:
+#0 /home/anyimpex/public_html/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-plugin-locator.php(45): Automattic\Jetpack\Autoloader\jpfd0d177b2d8140b4b20d4474b07b8ed7\Path_Processor->find_directory_with_autoloader('/home/anyimpex/...', Array)
+#1 /home/anyimpex/public_html/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-autoloader.php(46): Automattic\Jetpack\Autoloader\jpfd0d177b2d8140b4b20d4474b07b8ed7\Plugin_Locator->find_current_plugin()
+#2 /home/anyimpex/public_html/wp-content/plugins/woocommerce/vendor/autoload_packages.php(13): Automattic\Jetpack\Autoloader\jpfd0d177b2d8140b4b20d4474b07b8ed7\Autoloader::init()
+#3 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-path-processor.php on line 73
+[30-Nov-2025 15:33:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Automattic\Jetpack\Autoloader\jpfd0d177b2d8140b4b20d4474b07b8ed7\wp_normalize_path() in /home/anyimpex/public_html/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-path-processor.php:73
+Stack trace:
+#0 /home/anyimpex/public_html/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-plugin-locator.php(45): Automattic\Jetpack\Autoloader\jpfd0d177b2d8140b4b20d4474b07b8ed7\Path_Processor->find_directory_with_autoloader('/home/anyimpex/...', Array)
+#1 /home/anyimpex/public_html/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-autoloader.php(46): Automattic\Jetpack\Autoloader\jpfd0d177b2d8140b4b20d4474b07b8ed7\Plugin_Locator->find_current_plugin()
+#2 /home/anyimpex/public_html/wp-content/plugins/woocommerce/vendor/autoload_packages.php(13): Automattic\Jetpack\Autoloader\jpfd0d177b2d8140b4b20d4474b07b8ed7\Autoloader::init()
+#3 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-path-processor.php on line 73
+[05-Dec-2025 20:03:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Automattic\Jetpack\Autoloader\jpfd0d177b2d8140b4b20d4474b07b8ed7\wp_normalize_path() in /home/anyimpex/public_html/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-path-processor.php:73
+Stack trace:
+#0 /home/anyimpex/public_html/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-plugin-locator.php(45): Automattic\Jetpack\Autoloader\jpfd0d177b2d8140b4b20d4474b07b8ed7\Path_Processor->find_directory_with_autoloader('/home/anyimpex/...', Array)
+#1 /home/anyimpex/public_html/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-autoloader.php(46): Automattic\Jetpack\Autoloader\jpfd0d177b2d8140b4b20d4474b07b8ed7\Plugin_Locator->find_current_plugin()
+#2 /home/anyimpex/public_html/wp-content/plugins/woocommerce/vendor/autoload_packages.php(13): Automattic\Jetpack\Autoloader\jpfd0d177b2d8140b4b20d4474b07b8ed7\Autoloader::init()
+#3 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-path-processor.php on line 73
+[20-Dec-2025 13:10:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Automattic\Jetpack\Autoloader\jpfd0d177b2d8140b4b20d4474b07b8ed7\wp_normalize_path() in /home/anyimpex/public_html/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-path-processor.php:73
+Stack trace:
+#0 /home/anyimpex/public_html/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-plugin-locator.php(45): Automattic\Jetpack\Autoloader\jpfd0d177b2d8140b4b20d4474b07b8ed7\Path_Processor->find_directory_with_autoloader('/home/anyimpex/...', Array)
+#1 /home/anyimpex/public_html/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-autoloader.php(46): Automattic\Jetpack\Autoloader\jpfd0d177b2d8140b4b20d4474b07b8ed7\Plugin_Locator->find_current_plugin()
+#2 /home/anyimpex/public_html/wp-content/plugins/woocommerce/vendor/autoload_packages.php(13): Automattic\Jetpack\Autoloader\jpfd0d177b2d8140b4b20d4474b07b8ed7\Autoloader::init()
+#3 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-path-processor.php on line 73
+[14-Jan-2026 22:24:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Automattic\Jetpack\Autoloader\jpfd0d177b2d8140b4b20d4474b07b8ed7\wp_normalize_path() in /home/anyimpex/public_html/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-path-processor.php:73
+Stack trace:
+#0 /home/anyimpex/public_html/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-plugin-locator.php(45): Automattic\Jetpack\Autoloader\jpfd0d177b2d8140b4b20d4474b07b8ed7\Path_Processor->find_directory_with_autoloader('/home/anyimpex/...', Array)
+#1 /home/anyimpex/public_html/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-autoloader.php(46): Automattic\Jetpack\Autoloader\jpfd0d177b2d8140b4b20d4474b07b8ed7\Plugin_Locator->find_current_plugin()
+#2 /home/anyimpex/public_html/wp-content/plugins/woocommerce/vendor/autoload_packages.php(13): Automattic\Jetpack\Autoloader\jpfd0d177b2d8140b4b20d4474b07b8ed7\Autoloader::init()
+#3 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-path-processor.php on line 73
+[21-Jan-2026 22:17:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Automattic\Jetpack\Autoloader\jpfd0d177b2d8140b4b20d4474b07b8ed7\wp_normalize_path() in /home/anyimpex/public_html/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-path-processor.php:73
+Stack trace:
+#0 /home/anyimpex/public_html/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-plugin-locator.php(45): Automattic\Jetpack\Autoloader\jpfd0d177b2d8140b4b20d4474b07b8ed7\Path_Processor->find_directory_with_autoloader('/home/anyimpex/...', Array)
+#1 /home/anyimpex/public_html/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-autoloader.php(46): Automattic\Jetpack\Autoloader\jpfd0d177b2d8140b4b20d4474b07b8ed7\Plugin_Locator->find_current_plugin()
+#2 /home/anyimpex/public_html/wp-content/plugins/woocommerce/vendor/autoload_packages.php(13): Automattic\Jetpack\Autoloader\jpfd0d177b2d8140b4b20d4474b07b8ed7\Autoloader::init()
+#3 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-path-processor.php on line 73
+[02-Feb-2026 08:37:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Automattic\Jetpack\Autoloader\jpfd0d177b2d8140b4b20d4474b07b8ed7\wp_normalize_path() in /home/anyimpex/public_html/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-path-processor.php:73
+Stack trace:
+#0 /home/anyimpex/public_html/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-plugin-locator.php(45): Automattic\Jetpack\Autoloader\jpfd0d177b2d8140b4b20d4474b07b8ed7\Path_Processor->find_directory_with_autoloader('/home/anyimpex/...', Array)
+#1 /home/anyimpex/public_html/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-autoloader.php(46): Automattic\Jetpack\Autoloader\jpfd0d177b2d8140b4b20d4474b07b8ed7\Plugin_Locator->find_current_plugin()
+#2 /home/anyimpex/public_html/wp-content/plugins/woocommerce/vendor/autoload_packages.php(13): Automattic\Jetpack\Autoloader\jpfd0d177b2d8140b4b20d4474b07b8ed7\Autoloader::init()
+#3 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-path-processor.php on line 73
+[06-Feb-2026 19:21:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Automattic\Jetpack\Autoloader\jpfd0d177b2d8140b4b20d4474b07b8ed7\wp_normalize_path() in /home/anyimpex/public_html/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-path-processor.php:73
+Stack trace:
+#0 /home/anyimpex/public_html/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-plugin-locator.php(45): Automattic\Jetpack\Autoloader\jpfd0d177b2d8140b4b20d4474b07b8ed7\Path_Processor->find_directory_with_autoloader('/home/anyimpex/...', Array)
+#1 /home/anyimpex/public_html/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-autoloader.php(46): Automattic\Jetpack\Autoloader\jpfd0d177b2d8140b4b20d4474b07b8ed7\Plugin_Locator->find_current_plugin()
+#2 /home/anyimpex/public_html/wp-content/plugins/woocommerce/vendor/autoload_packages.php(13): Automattic\Jetpack\Autoloader\jpfd0d177b2d8140b4b20d4474b07b8ed7\Autoloader::init()
+#3 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-path-processor.php on line 73
+[09-Feb-2026 04:06:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Automattic\Jetpack\Autoloader\jpfd0d177b2d8140b4b20d4474b07b8ed7\wp_normalize_path() in /home/anyimpex/public_html/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-path-processor.php:73
+Stack trace:
+#0 /home/anyimpex/public_html/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-plugin-locator.php(45): Automattic\Jetpack\Autoloader\jpfd0d177b2d8140b4b20d4474b07b8ed7\Path_Processor->find_directory_with_autoloader('/home/anyimpex/...', Array)
+#1 /home/anyimpex/public_html/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-autoloader.php(46): Automattic\Jetpack\Autoloader\jpfd0d177b2d8140b4b20d4474b07b8ed7\Plugin_Locator->find_current_plugin()
+#2 /home/anyimpex/public_html/wp-content/plugins/woocommerce/vendor/autoload_packages.php(13): Automattic\Jetpack\Autoloader\jpfd0d177b2d8140b4b20d4474b07b8ed7\Autoloader::init()
+#3 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-path-processor.php on line 73
+[11-Feb-2026 03:57:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Automattic\Jetpack\Autoloader\jpfd0d177b2d8140b4b20d4474b07b8ed7\wp_normalize_path() in /home/anyimpex/public_html/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-path-processor.php:73
+Stack trace:
+#0 /home/anyimpex/public_html/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-plugin-locator.php(45): Automattic\Jetpack\Autoloader\jpfd0d177b2d8140b4b20d4474b07b8ed7\Path_Processor->find_directory_with_autoloader('/home/anyimpex/...', Array)
+#1 /home/anyimpex/public_html/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-autoloader.php(46): Automattic\Jetpack\Autoloader\jpfd0d177b2d8140b4b20d4474b07b8ed7\Plugin_Locator->find_current_plugin()
+#2 /home/anyimpex/public_html/wp-content/plugins/woocommerce/vendor/autoload_packages.php(13): Automattic\Jetpack\Autoloader\jpfd0d177b2d8140b4b20d4474b07b8ed7\Autoloader::init()
+#3 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-path-processor.php on line 73
+[14-Feb-2026 04:40:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Automattic\Jetpack\Autoloader\jpfd0d177b2d8140b4b20d4474b07b8ed7\wp_normalize_path() in /home/anyimpex/public_html/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-path-processor.php:73
+Stack trace:
+#0 /home/anyimpex/public_html/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-plugin-locator.php(45): Automattic\Jetpack\Autoloader\jpfd0d177b2d8140b4b20d4474b07b8ed7\Path_Processor->find_directory_with_autoloader('/home/anyimpex/...', Array)
+#1 /home/anyimpex/public_html/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-autoloader.php(46): Automattic\Jetpack\Autoloader\jpfd0d177b2d8140b4b20d4474b07b8ed7\Plugin_Locator->find_current_plugin()
+#2 /home/anyimpex/public_html/wp-content/plugins/woocommerce/vendor/autoload_packages.php(13): Automattic\Jetpack\Autoloader\jpfd0d177b2d8140b4b20d4474b07b8ed7\Autoloader::init()
+#3 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-path-processor.php on line 73
+[14-Feb-2026 06:24:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Automattic\Jetpack\Autoloader\jpfd0d177b2d8140b4b20d4474b07b8ed7\wp_normalize_path() in /home/anyimpex/public_html/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-path-processor.php:73
+Stack trace:
+#0 /home/anyimpex/public_html/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-plugin-locator.php(45): Automattic\Jetpack\Autoloader\jpfd0d177b2d8140b4b20d4474b07b8ed7\Path_Processor->find_directory_with_autoloader('/home/anyimpex/...', Array)
+#1 /home/anyimpex/public_html/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-autoloader.php(46): Automattic\Jetpack\Autoloader\jpfd0d177b2d8140b4b20d4474b07b8ed7\Plugin_Locator->find_current_plugin()
+#2 /home/anyimpex/public_html/wp-content/plugins/woocommerce/vendor/autoload_packages.php(13): Automattic\Jetpack\Autoloader\jpfd0d177b2d8140b4b20d4474b07b8ed7\Autoloader::init()
+#3 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-path-processor.php on line 73
+[20-Feb-2026 23:24:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Automattic\Jetpack\Autoloader\jpfd0d177b2d8140b4b20d4474b07b8ed7\wp_normalize_path() in /home/anyimpex/public_html/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-path-processor.php:73
+Stack trace:
+#0 /home/anyimpex/public_html/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-plugin-locator.php(45): Automattic\Jetpack\Autoloader\jpfd0d177b2d8140b4b20d4474b07b8ed7\Path_Processor->find_directory_with_autoloader('/home/anyimpex/...', Array)
+#1 /home/anyimpex/public_html/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-autoloader.php(46): Automattic\Jetpack\Autoloader\jpfd0d177b2d8140b4b20d4474b07b8ed7\Plugin_Locator->find_current_plugin()
+#2 /home/anyimpex/public_html/wp-content/plugins/woocommerce/vendor/autoload_packages.php(13): Automattic\Jetpack\Autoloader\jpfd0d177b2d8140b4b20d4474b07b8ed7\Autoloader::init()
+#3 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-path-processor.php on line 73
+[03-Mar-2026 21:09:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Automattic\Jetpack\Autoloader\jpfd0d177b2d8140b4b20d4474b07b8ed7\wp_normalize_path() in /home/anyimpex/public_html/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-path-processor.php:73
+Stack trace:
+#0 /home/anyimpex/public_html/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-plugin-locator.php(45): Automattic\Jetpack\Autoloader\jpfd0d177b2d8140b4b20d4474b07b8ed7\Path_Processor->find_directory_with_autoloader('/home/anyimpex/...', Array)
+#1 /home/anyimpex/public_html/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-autoloader.php(46): Automattic\Jetpack\Autoloader\jpfd0d177b2d8140b4b20d4474b07b8ed7\Plugin_Locator->find_current_plugin()
+#2 /home/anyimpex/public_html/wp-content/plugins/woocommerce/vendor/autoload_packages.php(13): Automattic\Jetpack\Autoloader\jpfd0d177b2d8140b4b20d4474b07b8ed7\Autoloader::init()
+#3 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-path-processor.php on line 73
+[07-Mar-2026 10:11:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Automattic\Jetpack\Autoloader\jpfd0d177b2d8140b4b20d4474b07b8ed7\wp_normalize_path() in /home/anyimpex/public_html/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-path-processor.php:73
+Stack trace:
+#0 /home/anyimpex/public_html/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-plugin-locator.php(45): Automattic\Jetpack\Autoloader\jpfd0d177b2d8140b4b20d4474b07b8ed7\Path_Processor->find_directory_with_autoloader('/home/anyimpex/...', Array)
+#1 /home/anyimpex/public_html/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-autoloader.php(46): Automattic\Jetpack\Autoloader\jpfd0d177b2d8140b4b20d4474b07b8ed7\Plugin_Locator->find_current_plugin()
+#2 /home/anyimpex/public_html/wp-content/plugins/woocommerce/vendor/autoload_packages.php(13): Automattic\Jetpack\Autoloader\jpfd0d177b2d8140b4b20d4474b07b8ed7\Autoloader::init()
+#3 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-path-processor.php on line 73
+[16-Mar-2026 16:23:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Automattic\Jetpack\Autoloader\jpfd0d177b2d8140b4b20d4474b07b8ed7\wp_normalize_path() in /home/anyimpex/public_html/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-path-processor.php:73
+Stack trace:
+#0 /home/anyimpex/public_html/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-plugin-locator.php(45): Automattic\Jetpack\Autoloader\jpfd0d177b2d8140b4b20d4474b07b8ed7\Path_Processor->find_directory_with_autoloader('/home/anyimpex/...', Array)
+#1 /home/anyimpex/public_html/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-autoloader.php(46): Automattic\Jetpack\Autoloader\jpfd0d177b2d8140b4b20d4474b07b8ed7\Plugin_Locator->find_current_plugin()
+#2 /home/anyimpex/public_html/wp-content/plugins/woocommerce/vendor/autoload_packages.php(13): Automattic\Jetpack\Autoloader\jpfd0d177b2d8140b4b20d4474b07b8ed7\Autoloader::init()
+#3 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-path-processor.php on line 73

@@ -1,0 +1,53 @@
+[14-Sep-2025 04:41:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_plugin_active() in /home/anyimpex/public_html/wp-content/plugins/jetpack/views/admin/landing-page-templates.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/jetpack/views/admin/landing-page-templates.php on line 2
+[14-Sep-2025 04:41:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _e() in /home/anyimpex/public_html/wp-content/plugins/jetpack/views/admin/network-admin-header.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/jetpack/views/admin/network-admin-header.php on line 5
+[14-Sep-2025 04:41:39 UTC] PHP Warning:  extract() expects parameter 1 to be array, null given in /home/anyimpex/public_html/wp-content/plugins/jetpack/views/admin/network-settings.php on line 1
+[14-Sep-2025 04:41:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _e() in /home/anyimpex/public_html/wp-content/plugins/jetpack/views/admin/network-settings.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/jetpack/views/admin/network-settings.php on line 12
+[14-Sep-2025 04:41:40 UTC] PHP Fatal error:  Uncaught Error: Class 'Jetpack' not found in /home/anyimpex/public_html/wp-content/plugins/jetpack/views/admin/my-jetpack-page.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/jetpack/views/admin/my-jetpack-page.php on line 4
+[14-Sep-2025 04:41:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _e() in /home/anyimpex/public_html/wp-content/plugins/jetpack/views/admin/must-connect-main-blog.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/jetpack/views/admin/must-connect-main-blog.php on line 5
+[14-Sep-2025 04:41:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _e() in /home/anyimpex/public_html/wp-content/plugins/jetpack/views/admin/network-admin-footer.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/jetpack/views/admin/network-admin-footer.php on line 4
+[14-Sep-2025 04:41:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _e() in /home/anyimpex/public_html/wp-content/plugins/jetpack/views/admin/module-modal-template.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/jetpack/views/admin/module-modal-template.php on line 2
+[14-Sep-2025 04:41:41 UTC] PHP Fatal error:  Uncaught Error: Class 'Jetpack' not found in /home/anyimpex/public_html/wp-content/plugins/jetpack/views/admin/admin-page.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/jetpack/views/admin/admin-page.php on line 2
+[27-Feb-2026 00:31:58 UTC] PHP Fatal error:  Uncaught Error: Class 'Jetpack' not found in /home/anyimpex/public_html/wp-content/plugins/jetpack/views/admin/admin-page.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/jetpack/views/admin/admin-page.php on line 2
+[27-Feb-2026 00:32:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_plugin_active() in /home/anyimpex/public_html/wp-content/plugins/jetpack/views/admin/landing-page-templates.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/jetpack/views/admin/landing-page-templates.php on line 2
+[27-Feb-2026 00:32:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _e() in /home/anyimpex/public_html/wp-content/plugins/jetpack/views/admin/module-modal-template.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/jetpack/views/admin/module-modal-template.php on line 2
+[27-Feb-2026 00:32:19 UTC] PHP Fatal error:  Uncaught Error: Class 'Jetpack' not found in /home/anyimpex/public_html/wp-content/plugins/jetpack/views/admin/my-jetpack-page.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/jetpack/views/admin/my-jetpack-page.php on line 4
+[27-Feb-2026 00:32:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _e() in /home/anyimpex/public_html/wp-content/plugins/jetpack/views/admin/network-admin-footer.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/jetpack/views/admin/network-admin-footer.php on line 4

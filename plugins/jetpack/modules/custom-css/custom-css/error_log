@@ -1,0 +1,8 @@
+[14-Sep-2025 04:41:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/custom-css/custom-css/preprocessors.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/custom-css/custom-css/preprocessors.php on line 33
+[27-Feb-2026 00:19:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/custom-css/custom-css/preprocessors.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/custom-css/custom-css/preprocessors.php on line 33

@@ -1,0 +1,1 @@
+[14-Jun-2025 14:03:38 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; WooThemes_Shortcode_Generator has a deprecated constructor in /home/anyimpex/public_html/wp-content/themes/artificer/functions/admin-shortcode-generator.php on line 33

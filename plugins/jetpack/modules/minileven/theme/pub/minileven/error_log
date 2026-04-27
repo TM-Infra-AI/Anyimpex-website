@@ -1,0 +1,8 @@
+[14-Sep-2025 04:39:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/minileven/theme/pub/minileven/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/minileven/theme/pub/minileven/index.php on line 14
+[22-Apr-2026 20:14:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/minileven/theme/pub/minileven/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/minileven/theme/pub/minileven/index.php on line 14

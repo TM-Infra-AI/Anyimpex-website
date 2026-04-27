@@ -1,0 +1,14 @@
+[14-Sep-2025 04:39:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/comments/base.php:25
+Stack trace:
+#0 /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/comments/comments.php(111): Highlander_Comments_Base->setup_actions()
+#1 /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/comments/base.php(9): Jetpack_Comments->setup_actions()
+#2 /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/comments/comments.php(53): Highlander_Comments_Base->__construct()
+#3 /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/comments/comments.php(41): Jetpack_Comments->__construct()
+#4 /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/comments/comments.php(570): Jetpack_Comments::init()
+#5 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/comments/base.php on line 25
+[14-Sep-2025 04:39:37 UTC] PHP Fatal error:  Uncaught Error: Class 'Jetpack_Comments' not found in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/comments/admin.php:28
+Stack trace:
+#0 /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/comments/admin.php(208): Jetpack_Comments_Settings::init()
+#1 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/comments/admin.php on line 28

@@ -1,0 +1,28 @@
+[14-Sep-2025 04:41:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/infinite-scroll/themes/twentyfourteen.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/infinite-scroll/themes/twentyfourteen.php on line 17
+[14-Sep-2025 04:41:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/infinite-scroll/themes/twentyfifteen.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/infinite-scroll/themes/twentyfifteen.php on line 17
+[14-Sep-2025 04:41:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/infinite-scroll/themes/twentyten.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/infinite-scroll/themes/twentyten.php on line 18
+[14-Sep-2025 04:41:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/infinite-scroll/themes/twentythirteen.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/infinite-scroll/themes/twentythirteen.php on line 18
+[14-Sep-2025 04:41:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/infinite-scroll/themes/twentyeleven.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/infinite-scroll/themes/twentyeleven.php on line 17
+[14-Sep-2025 04:41:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/infinite-scroll/themes/twentytwelve.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/infinite-scroll/themes/twentytwelve.php on line 17
+[14-Sep-2025 04:41:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/infinite-scroll/themes/twentysixteen.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/infinite-scroll/themes/twentysixteen.php on line 18

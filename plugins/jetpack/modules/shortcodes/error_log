@@ -1,0 +1,148 @@
+[14-Sep-2025 04:40:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_embed_register_handler() in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/shortcodes/facebook.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/shortcodes/facebook.php on line 15
+[14-Sep-2025 04:40:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_shortcode() in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/shortcodes/googlevideo.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/shortcodes/googlevideo.php on line 29
+[14-Sep-2025 04:40:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/shortcodes/flickr.php:94
+Stack trace:
+#0 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/shortcodes/flickr.php on line 94
+[14-Sep-2025 04:40:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_oembed_add_provider() in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/shortcodes/mixcloud.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/shortcodes/mixcloud.php on line 16
+[14-Sep-2025 04:40:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/shortcodes/slideshow.php:330
+Stack trace:
+#0 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/shortcodes/slideshow.php on line 330
+[14-Sep-2025 04:40:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_embed_register_handler() in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/shortcodes/vine.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/shortcodes/vine.php on line 52
+[14-Sep-2025 04:40:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_shortcode() in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/shortcodes/scribd.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/shortcodes/scribd.php on line 46
+[14-Sep-2025 04:40:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_oembed_add_provider() in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/shortcodes/ted.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/shortcodes/ted.php on line 13
+[14-Sep-2025 04:40:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_oembed_add_provider() in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/shortcodes/codepen.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/shortcodes/codepen.php on line 10
+[14-Sep-2025 04:40:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_shortcode() in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/shortcodes/diggthis.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/shortcodes/diggthis.php on line 11
+[14-Sep-2025 04:40:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_oembed_add_provider() in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/shortcodes/houzz.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/shortcodes/houzz.php on line 14
+[14-Sep-2025 04:40:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_shortcode() in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/shortcodes/wufoo.php:82
+Stack trace:
+#0 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/shortcodes/wufoo.php on line 82
+[14-Sep-2025 04:40:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_shortcode() in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/shortcodes/twitter-timeline.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/shortcodes/twitter-timeline.php on line 2
+[14-Sep-2025 04:40:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/shortcodes/blip.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/shortcodes/blip.php on line 36
+[14-Sep-2025 04:40:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_embed_register_handler() in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/shortcodes/gist.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/shortcodes/gist.php on line 9
+[14-Sep-2025 04:40:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/shortcodes/untappd-menu.php:15
+Stack trace:
+#0 /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/shortcodes/untappd-menu.php(65): Jetpack_Untappd->__construct()
+#1 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/shortcodes/untappd-menu.php on line 15
+[14-Sep-2025 04:40:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_shortcode() in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/shortcodes/polldaddy.php:18
+Stack trace:
+#0 /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/shortcodes/polldaddy.php(563): PolldaddyShortcode->__construct()
+#1 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/shortcodes/polldaddy.php on line 18
+[14-Sep-2025 04:40:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/shortcodes/instagram.php:57
+Stack trace:
+#0 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/shortcodes/instagram.php on line 57
+[14-Sep-2025 04:40:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/shortcodes/googlemaps.php:51
+Stack trace:
+#0 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/shortcodes/googlemaps.php on line 51
+[14-Sep-2025 04:40:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_oembed_remove_provider() in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/shortcodes/slideshare.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/shortcodes/slideshare.php on line 4
+[14-Sep-2025 04:40:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_shortcode() in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/shortcodes/vimeo.php:163
+Stack trace:
+#0 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/shortcodes/vimeo.php on line 163
+[14-Sep-2025 04:40:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/shortcodes/youtube.php:98
+Stack trace:
+#0 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/shortcodes/youtube.php on line 98
+[14-Sep-2025 04:40:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/shortcodes/dailymotion.php:61
+Stack trace:
+#0 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/shortcodes/dailymotion.php on line 61
+[14-Sep-2025 04:40:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_oembed_add_provider() in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/shortcodes/soundcloud.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/shortcodes/soundcloud.php on line 30
+[14-Sep-2025 04:40:54 UTC] PHP Fatal error:  Uncaught Error: Class 'Jetpack' not found in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/shortcodes/videopress.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/shortcodes/videopress.php on line 9
+[14-Sep-2025 04:40:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_embed_register_handler() in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/shortcodes/googleplus.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/shortcodes/googleplus.php on line 11
+[14-Sep-2025 04:40:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_embed_register_handler() in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/shortcodes/medium.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/shortcodes/medium.php on line 12
+[14-Sep-2025 04:40:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/shortcodes/recipe.php:17
+Stack trace:
+#0 /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/shortcodes/recipe.php(379): Jetpack_Recipes->__construct()
+#1 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/shortcodes/recipe.php on line 17
+[14-Sep-2025 04:40:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_oembed_add_provider() in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/shortcodes/cartodb.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/shortcodes/cartodb.php on line 18
+[14-Sep-2025 04:40:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_shortcode() in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/shortcodes/archives.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/shortcodes/archives.php on line 9
+[14-Sep-2025 04:40:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_shortcode() in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/shortcodes/bandcamp.php:189
+Stack trace:
+#0 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/shortcodes/bandcamp.php on line 189
+[14-Sep-2025 04:41:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_shortcode() in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/shortcodes/twitchtv.php:78
+Stack trace:
+#0 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/shortcodes/twitchtv.php on line 78
+[27-Feb-2026 00:24:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/shortcodes/blip.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/shortcodes/blip.php on line 36
+[27-Feb-2026 00:24:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_shortcode() in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/shortcodes/diggthis.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/shortcodes/diggthis.php on line 11
+[27-Feb-2026 00:24:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_shortcode() in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/shortcodes/googlevideo.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/shortcodes/googlevideo.php on line 29
+[27-Feb-2026 00:24:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_shortcode() in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/shortcodes/polldaddy.php:18
+Stack trace:
+#0 /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/shortcodes/polldaddy.php(563): PolldaddyShortcode->__construct()
+#1 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/shortcodes/polldaddy.php on line 18

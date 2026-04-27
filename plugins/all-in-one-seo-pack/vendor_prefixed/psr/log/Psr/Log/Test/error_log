@@ -1,0 +1,2 @@
+[14-Sep-2025 04:42:56 UTC] PHP Fatal error:  Class 'AIOSEO\Vendor\Psr\Log\AbstractLogger' not found in /home/anyimpex/public_html/wp-content/plugins/all-in-one-seo-pack/vendor_prefixed/psr/log/Psr/Log/Test/TestLogger.php on line 56
+[14-Sep-2025 04:42:57 UTC] PHP Fatal error:  Class 'AIOSEO\Vendor\PHPUnit\Framework\TestCase' not found in /home/anyimpex/public_html/wp-content/plugins/all-in-one-seo-pack/vendor_prefixed/psr/log/Psr/Log/Test/LoggerInterfaceTest.php on line 14

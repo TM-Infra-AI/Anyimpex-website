@@ -1,0 +1,4 @@
+[14-Sep-2025 04:40:16 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/widgets/gallery/templates/form.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/widgets/gallery/templates/form.php on line 2

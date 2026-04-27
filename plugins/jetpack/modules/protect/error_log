@@ -1,0 +1,16 @@
+[14-Sep-2025 04:39:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/protect/transient-cleanup.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/protect/transient-cleanup.php on line 54
+[14-Sep-2025 04:39:48 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/protect/config-ui.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/protect/config-ui.php on line 1
+[27-Feb-2026 00:22:40 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/protect/config-ui.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/protect/config-ui.php on line 1
+[27-Feb-2026 00:23:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/protect/transient-cleanup.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/protect/transient-cleanup.php on line 54

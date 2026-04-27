@@ -1,0 +1,1 @@
+[14-Sep-2025 04:46:30 UTC] PHP Fatal error:  Interface 'ActionScheduler_Schedule' not found in /home/anyimpex/public_html/wp-content/plugins/all-in-one-seo-pack/vendor/woocommerce/action-scheduler/deprecated/ActionScheduler_Schedule_Deprecated.php on line 6

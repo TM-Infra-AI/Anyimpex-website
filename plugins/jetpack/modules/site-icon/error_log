@@ -1,0 +1,20 @@
+[14-Sep-2025 04:39:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_verify_nonce() in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/site-icon/upload-site-icon.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/site-icon/upload-site-icon.php on line 14
+[14-Sep-2025 04:39:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/site-icon/jetpack-site-icon.php:66
+Stack trace:
+#0 /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/site-icon/jetpack-site-icon.php(51): Jetpack_Site_Icon->register_hooks()
+#1 /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/site-icon/jetpack-site-icon.php(829): Jetpack_Site_Icon::init()
+#2 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/site-icon/jetpack-site-icon.php on line 66
+[27-Feb-2026 00:25:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/site-icon/jetpack-site-icon.php:66
+Stack trace:
+#0 /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/site-icon/jetpack-site-icon.php(51): Jetpack_Site_Icon->register_hooks()
+#1 /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/site-icon/jetpack-site-icon.php(829): Jetpack_Site_Icon::init()
+#2 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/site-icon/jetpack-site-icon.php on line 66
+[27-Feb-2026 00:25:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_verify_nonce() in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/site-icon/upload-site-icon.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/site-icon/upload-site-icon.php on line 14

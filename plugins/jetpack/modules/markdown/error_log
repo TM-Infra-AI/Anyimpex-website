@@ -1,0 +1,4 @@
+[14-Sep-2025 04:40:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/markdown/easy-markdown.php:755
+Stack trace:
+#0 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/markdown/easy-markdown.php on line 755

@@ -1,0 +1,2 @@
+[14-Sep-2025 04:46:28 UTC] PHP Fatal error:  Class 'ActionScheduler_Abstract_Schema' not found in /home/anyimpex/public_html/wp-content/plugins/all-in-one-seo-pack/vendor/woocommerce/action-scheduler/classes/schema/ActionScheduler_LoggerSchema.php on line 10
+[14-Sep-2025 04:46:29 UTC] PHP Fatal error:  Class 'ActionScheduler_Abstract_Schema' not found in /home/anyimpex/public_html/wp-content/plugins/all-in-one-seo-pack/vendor/woocommerce/action-scheduler/classes/schema/ActionScheduler_StoreSchema.php on line 10

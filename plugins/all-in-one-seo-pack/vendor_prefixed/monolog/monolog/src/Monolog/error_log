@@ -1,0 +1,1 @@
+[14-Sep-2025 04:42:59 UTC] PHP Fatal error:  Interface 'AIOSEO\Vendor\Psr\Log\LoggerInterface' not found in /home/anyimpex/public_html/wp-content/plugins/all-in-one-seo-pack/vendor_prefixed/monolog/monolog/src/Monolog/Logger.php on line 26

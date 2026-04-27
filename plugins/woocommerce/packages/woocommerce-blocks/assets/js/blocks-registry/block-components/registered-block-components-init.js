@@ -1,0 +1,4 @@
+const registeredBlockComponents = {};
+
+export { registeredBlockComponents };
+;

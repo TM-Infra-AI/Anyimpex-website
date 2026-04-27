@@ -1,0 +1,4 @@
+[14-Sep-2025 04:44:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_e() in /home/anyimpex/public_html/wp-content/plugins/all-in-one-seo-pack/app/Lite/Views/taxonomy-upsell.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/all-in-one-seo-pack/app/Lite/Views/taxonomy-upsell.php on line 14

@@ -1,0 +1,225 @@
+[14-Sep-2025 04:39:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/infinite-scroll.php:45
+Stack trace:
+#0 /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/infinite-scroll.php(33): Jetpack_Infinite_Scroll_Extras->__construct()
+#1 /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/infinite-scroll.php(248): Jetpack_Infinite_Scroll_Extras::instance()
+#2 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/infinite-scroll.php on line 45
+[14-Sep-2025 04:39:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Jetpack' not found in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/photon.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/photon.php on line 16
+[14-Sep-2025 04:39:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/stats.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/stats.php on line 22
+[14-Sep-2025 04:39:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/post-by-email.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/post-by-email.php on line 14
+[14-Sep-2025 04:39:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function plugin_dir_path() in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/contact-form/grunion-contact-form.php:13
+Stack trace:
+#0 /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/contact-form.php(16): include()
+#1 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/contact-form/grunion-contact-form.php on line 13
+[14-Sep-2025 04:39:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function apply_filters() in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/module-extras.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/module-extras.php on line 31
+[14-Sep-2025 04:39:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/comments/base.php:25
+Stack trace:
+#0 /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/comments/comments.php(111): Highlander_Comments_Base->setup_actions()
+#1 /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/comments/base.php(9): Jetpack_Comments->setup_actions()
+#2 /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/comments/comments.php(53): Highlander_Comments_Base->__construct()
+#3 /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/comments/comments.php(41): Jetpack_Comments->__construct()
+#4 /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/comments/comments.php(570): Jetpack_Comments::init()
+#5 /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/comments.php(14): require('/home/anyimpex/...')
+#6 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/comments/base.php on line 25
+[14-Sep-2025 04:39:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/sitemaps.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/sitemaps.php on line 22
+[14-Sep-2025 04:39:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_shortcode() in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/videopress/shortcode.php:120
+Stack trace:
+#0 /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/videopress.php(14): include_once()
+#1 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/videopress/shortcode.php on line 120
+[14-Sep-2025 04:39:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/verification-tools.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/verification-tools.php on line 21
+[14-Sep-2025 04:39:12 UTC] PHP Fatal error:  Uncaught Error: Class 'Jetpack_Sync' not found in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/enhanced-distribution.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/enhanced-distribution.php on line 14
+[14-Sep-2025 04:39:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/custom-css.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/custom-css.php on line 18
+[14-Sep-2025 04:39:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/monitor.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/monitor.php on line 15
+[14-Sep-2025 04:39:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/widgets.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/widgets.php on line 35
+[14-Sep-2025 04:39:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/widget-visibility/widget-conditions.php:698
+Stack trace:
+#0 /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/widget-visibility.php(14): include()
+#1 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/widget-visibility/widget-conditions.php on line 698
+[14-Sep-2025 04:39:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/custom-content-types.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/custom-content-types.php on line 22
+[14-Sep-2025 04:39:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/json-api.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/json-api.php on line 13
+[14-Sep-2025 04:39:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/site-icon/jetpack-site-icon.php:66
+Stack trace:
+#0 /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/site-icon/jetpack-site-icon.php(51): Jetpack_Site_Icon->register_hooks()
+#1 /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/site-icon/jetpack-site-icon.php(829): Jetpack_Site_Icon::init()
+#2 /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/site-icon.php(14): include('/home/anyimpex/...')
+#3 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/site-icon/jetpack-site-icon.php on line 66
+[14-Sep-2025 04:39:18 UTC] PHP Fatal error:  Uncaught Error: Class 'Jetpack' not found in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/shortcodes.php:46
+Stack trace:
+#0 /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/shortcodes.php(135): jetpack_load_shortcodes()
+#1 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/shortcodes.php on line 46
+[14-Sep-2025 04:39:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/gravatar-hovercards.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/gravatar-hovercards.php on line 38
+[14-Sep-2025 04:39:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/module-info.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/module-info.php on line 24
+[14-Sep-2025 04:39:20 UTC] PHP Warning:  Use of undefined constant JETPACK__PLUGIN_DIR - assumed 'JETPACK__PLUGIN_DIR' (this will throw an Error in a future version of PHP) in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/protect.php on line 15
+[14-Sep-2025 04:39:20 UTC] PHP Warning:  include_once(JETPACK__PLUGIN_DIRmodules/protect/shared-functions.php): failed to open stream: No such file or directory in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/protect.php on line 15
+[14-Sep-2025 04:39:20 UTC] PHP Warning:  include_once(): Failed opening 'JETPACK__PLUGIN_DIRmodules/protect/shared-functions.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/protect.php on line 15
+[14-Sep-2025 04:39:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/protect.php:50
+Stack trace:
+#0 /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/protect.php(40): Jetpack_Protect_Module->__construct()
+#1 /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/protect.php(831): Jetpack_Protect_Module::instance()
+#2 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/protect.php on line 50
+[14-Sep-2025 04:39:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/after-the-deadline.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/after-the-deadline.php on line 41
+[14-Sep-2025 04:39:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/markdown/easy-markdown.php:755
+Stack trace:
+#0 /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/markdown.php(14): include()
+#1 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/markdown/easy-markdown.php on line 755
+[14-Sep-2025 04:39:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/subscriptions.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/subscriptions.php on line 16
+[14-Sep-2025 04:39:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function apply_filters() in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/holiday-snow.php:131
+Stack trace:
+#0 /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/holiday-snow.php(86): jetpack_is_holiday_snow_season()
+#1 /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/holiday-snow.php(134): jetpack_maybe_holiday_snow()
+#2 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/holiday-snow.php on line 131
+[14-Sep-2025 04:39:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/latex.php:117
+Stack trace:
+#0 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/latex.php on line 117
+[14-Sep-2025 04:39:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/manage.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/manage.php on line 16
+[14-Sep-2025 04:39:26 UTC] PHP Fatal error:  Uncaught Error: Class 'Jetpack' not found in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/likes.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/likes.php on line 13
+[14-Sep-2025 04:39:27 UTC] PHP Warning:  Use of undefined constant JETPACK__PLUGIN_DIR - assumed 'JETPACK__PLUGIN_DIR' (this will throw an Error in a future version of PHP) in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/sso.php on line 2
+[14-Sep-2025 04:39:27 UTC] PHP Warning:  require_once(JETPACK__PLUGIN_DIRmodules/sso/class.jetpack-sso-helpers.php): failed to open stream: No such file or directory in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/sso.php on line 2
+[14-Sep-2025 04:39:27 UTC] PHP Fatal error:  require_once(): Failed opening required 'JETPACK__PLUGIN_DIRmodules/sso/class.jetpack-sso-helpers.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/sso.php on line 2
+[14-Sep-2025 04:39:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/tiled-gallery.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/tiled-gallery.php on line 18
+[14-Sep-2025 04:39:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/carousel/jetpack-carousel.php:28
+Stack trace:
+#0 /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/carousel/jetpack-carousel.php(665): Jetpack_Carousel->__construct()
+#1 /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/carousel.php(17): include('/home/anyimpex/...')
+#2 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/carousel/jetpack-carousel.php on line 28
+[14-Sep-2025 04:39:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/related-posts.php:40
+Stack trace:
+#0 /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/related-posts.php(28): Jetpack_RelatedPosts_Module->__construct()
+#1 /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/related-posts.php(90): Jetpack_RelatedPosts_Module::instance()
+#2 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/related-posts.php on line 40
+[14-Sep-2025 04:39:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/minileven.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/minileven.php on line 23
+[14-Sep-2025 04:39:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/theme-tools.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/theme-tools.php on line 13
+[14-Sep-2025 04:39:31 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/omnisearch/omnisearch-posts.php on line 4
+[14-Sep-2025 04:39:31 UTC] PHP Warning:  require_once(ABSPATHwp-admin/includes/class-wp-list-table.php): failed to open stream: No such file or directory in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/omnisearch/omnisearch-posts.php on line 4
+[14-Sep-2025 04:39:31 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHwp-admin/includes/class-wp-list-table.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/omnisearch/omnisearch-posts.php on line 4
+[14-Sep-2025 04:39:32 UTC] PHP Warning:  require_once(/home/anyimpex/public_html/wp-content/plugins/jetpack/mu-plugins/keyring/keyring.php): failed to open stream: No such file or directory in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/publicize.php on line 35
+[14-Sep-2025 04:39:32 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/anyimpex/public_html/wp-content/plugins/jetpack/mu-plugins/keyring/keyring.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/publicize.php on line 35
+[14-Sep-2025 04:39:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/vaultpress.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/vaultpress.php on line 15
+[14-Sep-2025 04:39:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function plugin_dir_path() in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/sharedaddy/sharedaddy.php:11
+Stack trace:
+#0 /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/sharedaddy.php(18): include()
+#1 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/sharedaddy/sharedaddy.php on line 11
+[14-Sep-2025 04:39:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/shortlinks.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/shortlinks.php on line 13
+[14-Sep-2025 04:39:35 UTC] PHP Warning:  Use of undefined constant JETPACK__VERSION - assumed 'JETPACK__VERSION' (this will throw an Error in a future version of PHP) in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/notes.php on line 13
+[14-Sep-2025 04:39:35 UTC] PHP Fatal error:  Uncaught Error: Class 'Jetpack_Sync' not found in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/notes.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/notes.php on line 15
+[27-Feb-2026 00:13:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/after-the-deadline.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/after-the-deadline.php on line 41
+[27-Feb-2026 00:14:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/custom-css.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/custom-css.php on line 18
+[27-Feb-2026 00:14:17 UTC] PHP Fatal error:  Uncaught Error: Class 'Jetpack_Sync' not found in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/enhanced-distribution.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/enhanced-distribution.php on line 14
+[27-Feb-2026 00:14:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function apply_filters() in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/holiday-snow.php:131
+Stack trace:
+#0 /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/holiday-snow.php(86): jetpack_is_holiday_snow_season()
+#1 /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/holiday-snow.php(134): jetpack_maybe_holiday_snow()
+#2 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/holiday-snow.php on line 131
+[27-Feb-2026 00:14:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/manage.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/manage.php on line 16
+[27-Feb-2026 00:14:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/minileven.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/minileven.php on line 23
+[27-Feb-2026 00:15:00 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/omnisearch/omnisearch-posts.php on line 4
+[27-Feb-2026 00:15:00 UTC] PHP Warning:  require_once(ABSPATHwp-admin/includes/class-wp-list-table.php): failed to open stream: No such file or directory in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/omnisearch/omnisearch-posts.php on line 4
+[27-Feb-2026 00:15:00 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHwp-admin/includes/class-wp-list-table.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/omnisearch/omnisearch-posts.php on line 4
+[27-Feb-2026 00:15:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/site-icon/jetpack-site-icon.php:66
+Stack trace:
+#0 /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/site-icon/jetpack-site-icon.php(51): Jetpack_Site_Icon->register_hooks()
+#1 /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/site-icon/jetpack-site-icon.php(829): Jetpack_Site_Icon::init()
+#2 /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/site-icon.php(14): include('/home/anyimpex/...')
+#3 {main}
+  thrown in /home/anyimpex/public_html/wp-content/plugins/jetpack/modules/site-icon/jetpack-site-icon.php on line 66
